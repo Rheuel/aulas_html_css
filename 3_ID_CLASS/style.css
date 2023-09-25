@@ -1,21 +1,26 @@
+#titulo {
+    color: cornflowerblue;
+}
+
+.verde {
+    color: rgb(167, 17, 172)
+}
+
 h1 {
-    color: blue
+    color: blue;
     
 }
 
 h2 {
-    color: red
+    color: red;
 
 }
 
 p {
-    color: green
+    color: green;
 }
 
 .titules-grandes {
     font-size: 50px;
 }
 
-.verde {
-    color: rgb(167, 17, 172)
-}
